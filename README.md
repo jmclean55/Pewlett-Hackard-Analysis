@@ -1,3 +1,3 @@
 # Pewlett-Hackard-Analysis
 
-## I attached screenshots of a problem I am having with the module, its not allowing me to upload the files.  I tried multiple different attempts at getting the files onto PGadmin but all failed.
+Updated Pewlett Hackard Analysis, resolved previous issue but still not getting any graphs or anything.  I am trying, but still struggling mightily. 
